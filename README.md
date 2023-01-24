@@ -1,5 +1,5 @@
 
-Hello it's Bharti 👋
+<h1 style="text-align:center">Hello it's Bharti 👋</h1>
 
 
 
