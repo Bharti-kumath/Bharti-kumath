@@ -1,5 +1,4 @@
-
-<p align ="center" dir="auto"><p align ="center"><h1>Hello! it's Bharti 👋</h1>
+<p align ="center"><h1>Hello! it's Bharti <i">mg src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"></h1>
 
 
 
