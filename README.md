@@ -1,5 +1,5 @@
 
-<p align ="center"><h1>Hello! it's Bharti 👋</h1>
+<p align ="center"><p align ="center"><h1>Hello! it's Bharti 👋</h1>
 
 
 
@@ -15,6 +15,6 @@
 
 - <a href="bhartikumath017@gmail.com">Email</a>
 - <a href ="https://www.linkedin.com/in/bharti-kumath-a51409203/"> Linkedin</a>
-- <a href="https://bharti-kumath.github.io/Portfolio/portfolio%20site/port.html">Portfolio</a>
+- <a href="https://bharti-kumath.github.io/Portfolio/portfolio%20site/port.html">Portfolio</a> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Bharti-kumath&theme=radical)
