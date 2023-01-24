@@ -1,5 +1,5 @@
 
-<p align ="center"><p align ="center"><h1>Hello! it's Bharti 👋</h1>
+<p align ="center" dir="auto"><p align ="center"><h1>Hello! it's Bharti 👋</h1>
 
 
 
