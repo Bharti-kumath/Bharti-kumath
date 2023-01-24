@@ -1,9 +1,9 @@
 
-<p align ="center"><h1>Hello it's Bharti 👋</h1>
+<p align ="center"><h1>Hello! it's Bharti 👋</h1>
 
 
 
-- Hello Geeks 👻, I'm Bharti Kumath. 
+- Hello! Geeks 👻, I'm Bharti Kumath. 
 - I am pursing  🚀 my Bachelor's in Electronics and communication 🤖 at L.D. college of engineering. 
 - I am learning about Back end web 🎯 development. 
 - I'm currently working as an intern 👨🏽‍💻 at <a href="https://www.tatvasoft.com/">Tatvasoft</a> 
